@@ -10,7 +10,7 @@
 .body{
     background-color: blueviolet;
 }
-h1{
+.b-b-q{
     font-size: 5rem;
     font-weight: bold;
 }
@@ -69,4 +69,73 @@ p{
 }
 .button{
     padding-top: 10%;
+}
+.button1{
+    background-color: rgb(231, 83, 83);
+    border-radius: 1em 1em 6em 1em;
+}
+.button2{
+    border-radius:6em 1em 1em 1em ;
+}
+.LT{
+    margin-top: 30%;
+    margin-bottom: 7%;
+    margin-right: 10%;
+}
+.DT{
+    margin-top: 30%;
+    margin-bottom: 7%;
+    margin-left: 15%; ;
+
+}
+
+/* hero section  */
+
+.hero-heading1{
+    padding-top: 7% !important;
+}
+
+.hero-heading1{
+    color: rgb(255, 128, 43);
+    text-align: center;
+}
+
+.hero-heading2{
+    color:rgb(100, 228, 100) ;
+    text-align: center;
+}
+.burger-img{
+    width: 500px;
+    height: 400px;
+}
+.steak-img{
+    height: 550px;
+    width: 500px;
+}
+.burger-div{
+    padding: 0 0 0 10% !important;
+}
+.steak-div{
+    padding:0 10% 0 0 ;
+}
+.button3{
+    
+    background-color: rgb(56, 155, 56);
+    border-radius: 1em 1em 6em 1em;
+}
+.button4{
+    margin-bottom: 10% !important;
+    background-color: rgb(56, 155, 56);
+    border-radius: 1em 1em 6em 1em;
+}
+
+
+/* menu section  */
+.menu-1st-text{
+    margin-top: 6%;
+    color:rgb(255, 128, 43) ;
+    text-align: center;
+}
+.menu-2nd-text{
+    text-align: center;
 }
